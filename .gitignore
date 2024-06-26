@@ -34,12 +34,7 @@ sine-cosine-generator-backups/
 # Mac stuff
 .DS_Store
 
-# Gerber files
-gerbers/
-fabrication/
-*.zip
-*.gbr
-*.drl
+
 
 # BOM files
 # bom/
